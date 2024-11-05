@@ -1,0 +1,2 @@
+# namespace
+PHP Namespace Practice
